@@ -4,7 +4,13 @@
 
 A GiHub repo for basic images for various needs.
 
-### Usage
+# GitHub
+
+<img width="32" height="32" src="https://raw.githubusercontent.com/nicholashoule/img/master/me.svg">
+
+:bulb: **Idea:** [GitHub: nicholashoule](https://github.com/nicholashoule)
+
+## Usage
 
 Markdown, HTML
 
@@ -23,5 +29,3 @@ Markdown
 ![nicholashoule](https://raw.githubusercontent.com/nicholashoule/img/master/me.png)
 *Just a picture of me.*
 ```
-
-:bulb: **Idea:** [GitHub: nicholashoule](https://github.com/nicholashoule)
