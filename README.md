@@ -1,8 +1,8 @@
-<img align="right" width="256" height="256" alt="Nicholas Houle" src="https://raw.githubusercontent.com/nicholashoule/img/master/me.png">
+<img align="right" width="128" height="128" alt="Nicholas Houle" src="https://raw.githubusercontent.com/nicholashoule/img/master/me.svg">
 
 # img
 
-A GiHub repo for basic images for various needs.
+A GitHub repo for basic images for various needs.
 
 # GitHub
 
