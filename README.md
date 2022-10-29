@@ -6,7 +6,7 @@ A GitHub repo for basic images for various needs.
 
 ## GitHub
 
-**QR Codes** <img width="16" height="16" src="https://raw.githubusercontent.com/nicholashoule/img/master/nicholashoule.png">
+**QR Codes** <img width="16" height="16" src="https://raw.githubusercontent.com/nicholashoule/img/master/[nicholashoule.png](https://github.com/nicholashoule/img/blob/main/qr-github-nicholashoule.png)">
 
 <img width="128" height="128" src="https://raw.githubusercontent.com/nicholashoule/img/master/nicholashoule.png"><img width="64" height="64" src="https://raw.githubusercontent.com/nicholashoule/img/master/nicholashoule.png"><img width="32" height="32" src="https://raw.githubusercontent.com/nicholashoule/img/master/nicholashoule.png">
 
